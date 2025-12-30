@@ -1,0 +1,7 @@
+.DS_Store
+UserInterfaceState.xcuserstate
+Breakpoints_v2.xcbkptlist
+DerivedData/
+build/
+*.moved-aside
+*.xcuserstate
