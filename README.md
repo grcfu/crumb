@@ -18,7 +18,9 @@ Crumb is a native iOS application designed to streamline the home baking experie
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90da1ce0-ec49-4ce0-879a-7c4eb6b41cda" width="30%" />
-  <img src="https://github.com/user-attachments/assets/99be14df-812e-458d-8da4-72c4f7b0000d" width="30%" />
-  <img src="https://github.com/user-attachments/assets/2af7f632-31ad-4982-9bca-d159a591b55a" width="30%" /> 
+  <img src="https://github.com/user-attachments/assets/90da1ce0-ec49-4ce0-879a-7c4eb6b41cda" width="45%" />
+  <img src="https://github.com/user-attachments/assets/99be14df-812e-458d-8da4-72c4f7b0000d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2af7f632-31ad-4982-9bca-d159a591b55a" width="45%" /> 
+  <img src="https://github.com/user-attachments/assets/5f2aeecd-86b3-4b9f-b967-a674b0cfb118" width="45%" />
 </p>
+
